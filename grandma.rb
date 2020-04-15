@@ -1,5 +1,4 @@
-greeting = "HELLO GRANDMA"
-def speak_to_grandma(greeting)
+def speak_to_grandma("Hello Grandma")
   if greeting.upcase == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
   elseif greeting.upcase == "WHAT DID YOU EAT TODAY?"
