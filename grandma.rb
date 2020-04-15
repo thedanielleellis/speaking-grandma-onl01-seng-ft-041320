@@ -1,4 +1,6 @@
-# Write a speak_to_grandma method.
+def speak_to_grandma(greeting)
+  if greeting.uppercae == "I LOVE YOU GRANDMA!"
+    put 
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
