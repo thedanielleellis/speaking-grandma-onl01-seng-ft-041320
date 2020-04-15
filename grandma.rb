@@ -1,7 +1,10 @@
 def speak_to_grandma(greeting)
   if greeting.uppercae == "I LOVE YOU GRANDMA!"
-    put 
-
+    put "I LOVE YOU TOO PUMPKIN!"
+  elseif greeting.upcase == greeting
+    put "NO, NOT SINCE 1938!"
+  else
+    
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
